@@ -9,4 +9,5 @@ Curso basico de Python da Fundação Bradesco
 - Comando de entrada de dados do usuario: input(): somente string, int(input()): inteiro, float(input()): numero real.
 - Sequencia de escape como: \n pra quebra de linha, \r equivalente ao Enter, \' aspas simples, etc... (Foto da tabela adicionada ao repositório)
 - Operadores Aritmeticos (+, -, *, /, **, %), Operadores Lógicos: and, or, not.
-- Operadores relacionais: == (Igual a), != (Diferente de), > (Maior que), < (Menor que), >= (Maior ou igual a), <= (Menor ou igual a)
+- Operadores relacionais: == (Igual a), != (Diferente de), > (Maior que), < (Menor que), >= (Maior ou igual a), <= (Menor ou igual a).
+- Estrutura de decisão simples if(se) else (se não).
