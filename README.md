@@ -14,4 +14,4 @@ Curso basico de Python da Fundação Bradesco
 - Condição elif: condição a ser executada antes do else como se fosse um "else if".
 - Iteradores: são estruturas que permitem acesso a vários itens de uma coleção de elementos de forma sequencial. 
 - Estruturas de repetições utilizando for(para) e while(while). (Exercicios e exemplos no arquivo "Crescente").
-
+- Declarando funções: a declaração consiste em três parte ( nome, parâmetro e corpo)
