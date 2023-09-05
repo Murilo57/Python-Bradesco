@@ -1,6 +1,6 @@
-codigo = 105
-nome = 'Manuel Da Silva'
-salario = 16500.00
+codigo = int(input("Digite o codigo do funcionario: "))
+nome = input("Digite o nome do usuario: ")
+salario = float(input("Digite o salario do usuario: "))
 ativo = True
 
 print("Código: %d"% codigo)
