@@ -14,4 +14,6 @@ Curso basico de Python da Fundação Bradesco
 - Condição elif: condição a ser executada antes do else como se fosse um "else if".
 - Iteradores: são estruturas que permitem acesso a vários itens de uma coleção de elementos de forma sequencial. 
 - Estruturas de repetições utilizando for(para) e while(while). (Exercicios e exemplos no arquivo "Crescente").
-- Declarando funções: a declaração consiste em três parte ( nome, parâmetro e corpo)
+- Declarando funções: a declaração consiste em três parte ( nome, parâmetro e corpo).
+- Funções para manipular arquivos de textos: open('nomearquivo','modo de abertura.'), write('Grava informações em um arquivo existente'), .close(encerra o arquivo, usar sempre após o fim do uso do arquivo). Exemplo no arquivo de exercicio "Gravar".
+- Função read(): realiza a leitura de todo o conteudo do arquivo
