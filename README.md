@@ -11,3 +11,7 @@ Curso basico de Python da Fundação Bradesco
 - Operadores Aritmeticos (+, -, *, /, **, %), Operadores Lógicos: and, or, not.
 - Operadores relacionais: == (Igual a), != (Diferente de), > (Maior que), < (Menor que), >= (Maior ou igual a), <= (Menor ou igual a).
 - Estrutura de decisão simples if(se) else (se não).
+- Condição elif: condição a ser executada antes do else como se fosse um "else if".
+- Iteradores: são estruturas que permitem acesso a vários itens de uma coleção de elementos de forma sequencial. 
+- Estruturas de repetições utilizando for(para) e while(while). (Exercicios e exemplos no arquivo "Crescente").
+
